@@ -1,4 +1,3 @@
 <?php
-
-echo "otra prueba"
+echo phpinfo();
 ?>
