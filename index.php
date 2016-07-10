@@ -1,3 +1,3 @@
 <?php
-echo "prueba OpenShift";
+echo "pruebas pruebas pruebas";
 ?>
